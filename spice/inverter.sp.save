@@ -1,0 +1,3 @@
+* CMOS inverter VTC, SKY130
+.lib /home/shivam/.volare/volare/sky130/versions/7519dfb04400f224f140749cda44ee7de6f5e095/sky130A/libs.tech/ngspice/sky130.lib.spice tt
+VDD vdd 
